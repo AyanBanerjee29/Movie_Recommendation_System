@@ -52,7 +52,7 @@ Suitable for graphs where relationships among nodes vary in importance.
 
 ---
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 
 Hyperparameter tuning using grid/random search.
 
